@@ -25,6 +25,22 @@ Cerberus DeepCrystal is a cutting-edge web application designed to act as a virt
 * **Blockchain Certification**: Generates a verifiable SHA-256 fingerprint and printable QR code for every analyzed gemstone to serve as an immutable certificate of authenticity.
 * **Interactive UI**: A stunning, high-tech dark mode dashboard built with React and Vite.
 
+## 💎 Screenshots
+
+<img width="1920" height="1030" alt="gem1" src="https://github.com/user-attachments/assets/2a6cd034-a611-4018-9f7e-11864912db94" /><br>
+
+<img width="1920" height="1030" alt="gem2" src="https://github.com/user-attachments/assets/9e3a20f4-ca4e-4ccb-8346-219d0577e7f1" /><br>
+
+<img width="1920" height="1030" alt="gem3" src="https://github.com/user-attachments/assets/1badeabf-934f-45e9-a039-578f569ee934" /><br>
+
+<img width="1920" height="1030" alt="gem4" src="https://github.com/user-attachments/assets/54411499-c284-414f-b03a-a49536eff784" /><br>
+
+<img width="1591" height="854" alt="gem5" src="https://github.com/user-attachments/assets/52cf1b96-e5ff-419d-a066-cf416ff80c90" /><br>
+
+<img width="1581" height="782" alt="gem6" src="https://github.com/user-attachments/assets/113336b5-f454-4a87-8259-594ae5de5d4d" /><br>
+
+<img width="1586" height="775" alt="gem7" src="https://github.com/user-attachments/assets/eb0692d8-a6e2-4e71-83c4-ea9ecf197878" /><br>
+
 ## 🛠️ Technology Stack
 
 * **Frontend**: React 18, Vite, standard CSS.
@@ -66,3 +82,4 @@ See [`HOW_TO_USE.md`](./HOW_TO_USE.md) for detailed instructions on launching th
 
 ---
 *Created by Sudeepa Wanigarathna. Designed for research and demonstration purposes. For high-value transactions, physical laboratory testing is required.*
+
